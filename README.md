@@ -35,5 +35,5 @@
 - 💬 **Real-Time Chat**
   - Socket.IO integration
   - Typing indicators
-  - 
+
 
